@@ -9,8 +9,8 @@ Modified to support a specific workflow we have at Khan Academy (converting our 
 How to use:
 
 ```
-git clone git@github.com:Khan/Font-Awesome-SVG-PNG.git
-cd Font-Awesome-SVG-PNG/
+git clone git@github.com:Khan/Font-Awesome-SVG-Path.git
+cd Font-Awesome-SVG-Path/
 
 npm install
 rm -rf node_modules/font-awesome/
